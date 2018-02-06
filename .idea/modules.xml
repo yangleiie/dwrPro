@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dwrtest.iml" filepath="$PROJECT_DIR$/.idea/modules/dwrtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dwrtest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dwrtest_main.iml" group="dwrtest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dwrtest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dwrtest_test.iml" group="dwrtest" />
+    </modules>
+  </component>
+</project>
