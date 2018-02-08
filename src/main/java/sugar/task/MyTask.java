@@ -21,10 +21,10 @@ public class MyTask extends TimerTask {
 
     @Override
     public void run(){
-        SendUtils sendUtils = new SendUtils();
-//        sendUtils.sendSingle("hello"+i++);
-        sendUtils.sendMany("hello"+i++);
-        System.out.println("hello world");
+//        SendUtils sendUtils = new SendUtils();
+////        sendUtils.sendSingle("hello"+i++);
+//        sendUtils.sendMany("hello"+i++);
+//        System.out.println("hello world");
 
     }
 }
